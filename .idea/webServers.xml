@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9b6462db-1829-4d98-a64a-8bdafb8b414d" name="pattern" url="http://codevery.com">
+        <fileTransfer host="codevery.com" port="2021" rootFolder="/patterns/public_html" password="dfc9dff8dfdcdff5df98df9fdf9edf99" username="rav">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
